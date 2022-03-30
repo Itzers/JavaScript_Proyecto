@@ -1,0 +1,44 @@
+[
+    {
+        "precio": 799,
+        "id": 1,
+        "title": "Relajante",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "precio": 499,
+        "id": 2,
+        "title": "Masoterapia",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "precio": 799,
+        "id": 3,
+        "title": "Reductivo",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "precio": 899,
+        "id": 4,
+        "title": "Quiropractico",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "precio": 899,
+        "id": 5,
+        "title": "Fisioterapia",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "precio": 899,
+        "id": 6,
+        "title": "Nutrición",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "precio": 899,
+        "id": 7,
+        "title": "Entrenamiento",
+        "thumbnailUrl": "https://picsum.photos/200/300"
+    }
+]
